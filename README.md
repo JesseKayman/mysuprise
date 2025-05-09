@@ -1,32 +1,3 @@
 # goodmorning
 a suprise for my gf
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Gudmorning my philtatos 💙</title>
-  <style>
-    body {
-      background-color: #fef6f6;
-      text-align: center;
-      padding-top: 50px;
-      font-family: 'Arial', sans-serif;
-    }
-    h1 {
-      color: #c0392b;
-    }
-    video {
-      border-radius: 20px;
-      box-shadow: 0 8px 20px rgba(0,0,0,0.2);
-    }
-  </style>
-</head>
-<body>
-  <h1>💌:☀️🌊🌻 </h1>
-  <video width="80%" controls autoplay>
-    <source src="GoodMorning.mp4" type="video/mp4">
-    Trình duyệt của em không hỗ trợ video này 😥
-  </video>
-</body>
-</html>
